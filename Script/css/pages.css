@@ -1,0 +1,59 @@
+.breadcrumb-holder
+{
+	background:#F5F5F5;
+}
+
+.breadcrumb
+{
+	margin: 0;
+	padding: 10px;
+}
+
+.about-us
+{
+	padding:70px;
+}
+
+.about-us hr
+{
+	width: 300px ;
+	font-weight:bold;
+}
+.about-featurs
+{
+	padding:0 0 70px;;
+}
+.about-featurs h3
+{font-family: 'Julius Sans One', sans-serif;}
+
+
+.about-ceo {
+	background:#e8e8e6;
+	padding-top: 40px;
+}
+
+.about-ceo button 
+{
+	background:#343a40;
+	color: antiquewhite;
+	border: 0;
+	margin-bottom: 30px;
+}
+
+.faq-questions .panel-heading{padding: 10px;}
+
+.faq-questions .panel-heading a:after 
+{
+	font-family: 'Glyphicons Halflings';
+	content: "\e114";
+	float: right;
+}
+
+.faq-questions .panel-heading a.collapsed:after{content: "\e080";}
+
+
+
+
+
+
+

@@ -1,0 +1,51 @@
+/*  start media */
+/* smart phone */
+@media(max-width:767px)
+{
+	.navbar-inverse .navbar-nav > li > a 
+	{
+		padding-top: 10px;
+		padding-bottom:10px;
+	}
+	.sub-scribe .form-control
+	{
+		margin: 20px auto;
+		border-radius:10px;
+		width:250px;
+	}
+	.sub-scribe .btn
+	{
+		border-radius:10px;
+	}
+	.navbar-fixed-top .navbar-collapse,
+	.navbar-fixed-bottom .navbar-collapse 
+	{
+		max-height:none;
+	}
+}
+
+/* Small  Screen */
+
+@media(min-width:768px)and(max-width:991)
+{
+	
+}
+
+/* Medium Screen */
+
+@media(min-width:992px)and(max-width:1199)
+{
+	
+}
+
+/* Large Screen */
+
+@media(min-width:1200px)
+{
+	
+}
+
+
+
+
+/* end Media */
